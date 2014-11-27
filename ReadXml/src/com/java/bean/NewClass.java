@@ -7,5 +7,8 @@ public class NewClass {
 		
 		System.out.println("Created New File to track changes");
 		
+		
+		System.out.println("New Class Also changed");
+		
 	}
 }
