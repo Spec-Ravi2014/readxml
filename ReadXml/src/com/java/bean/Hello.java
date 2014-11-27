@@ -1,5 +1,5 @@
 package com.java.bean;
-
+//changed
 public class Hello {
 
 	private String name;
