@@ -12,5 +12,7 @@ public class NewClass {
 		
 		System.out.println("This change was never necesssary!!!!");
 		
+		System.out.println("Simple Sysout statement in NewClass");
+		
 	}
 }
