@@ -6,6 +6,8 @@ public class TEST {
 		
 		System.out.println("Change in test class");
 		
+		System.out.println("Second Change in test class");
+		
 	}
 	
 }
