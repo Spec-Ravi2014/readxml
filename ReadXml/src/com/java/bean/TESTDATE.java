@@ -17,5 +17,7 @@ public class TESTDATE {
 		
 		System.out.println(simpleDateFormat.format(date));
 		
+		System.out.println("Change in test date class");
+		
 	}
 }
