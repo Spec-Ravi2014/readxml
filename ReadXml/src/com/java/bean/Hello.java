@@ -12,6 +12,12 @@ public class Hello {
 	public void sayHello() {
 		System.out.println("Hello " + name);
 	}
+	
+	public void playGame(String game)
+	{
+		
+		System.out.println("playing game");
+	}
 
 	public String getName() {
 		return name;
